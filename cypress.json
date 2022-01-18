@@ -1,0 +1,15 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is DC7A-59C4
+
+ Directory of C:\Cypress Tutorial\Bindr
+
+17/01/2022  14:30    <DIR>          .
+15/12/2021  14:38    <DIR>          ..
+15/12/2021  17:22    <DIR>          .vscode
+15/12/2021  15:47    <DIR>          cypress
+17/01/2022  14:31                 0 cypress.json
+05/01/2022  14:03    <DIR>          node_modules
+05/01/2022  14:03           111,775 package-lock.json
+05/01/2022  14:03               272 package.json
+               3 File(s)        112,047 bytes
+               5 Dir(s)  331,046,649,856 bytes free

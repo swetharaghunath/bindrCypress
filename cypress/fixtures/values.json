@@ -1,0 +1,10 @@
+{
+  "username" :"sudeshna2@test.com",
+  "password" : "Test@123",
+  "bindrURL_staging" : "https://bindr-react-staging.herokuapp.com/",
+
+  "firstName": "Swetha",
+  "lastName":"Test",
+  "email":"TestBindr@yopmail.com"
+
+}

@@ -1,0 +1,15 @@
+{
+  "name": "bindr",
+  "version": "1.0.0",
+  "description": "bindr test cases",
+  "main": "index.js",
+  "scripts": {
+    "test": "bindr run"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.1.1",
+    "cypress-file-upload": "^5.0.8"
+  }
+}
